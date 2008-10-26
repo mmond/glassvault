@@ -12,6 +12,7 @@ http://github.com/mmond
 
 * Copy scripts to server
 * Configure MySQL database (I need to publish table schemas)
+* Edit dbconnect.php with database server info
 
 === Dependencies
 
