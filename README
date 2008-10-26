@@ -2,7 +2,7 @@
 
 Simple list manager.
 
-<i></i>.
+<i>This repo is my dev copy and is not intended for public consumption.  Anyone is welcome to any part that is useful.</i>.
 
 Mark Reynolds (http://markpreynolds.com)
 http://github.com/mmond
@@ -10,11 +10,13 @@ http://github.com/mmond
 
 == Installation
 
-There is no install.  All files are php scripts.
+* Copy scripts to server
+* Configure MySQL database (I need to publish table schemas)
 
 === Dependencies
 
 * PHP 4+
+* MySQL
 
 == License
 
